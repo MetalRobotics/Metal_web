@@ -581,8 +581,9 @@ img {
     font-size: var(--big-font-size);
   }
   .home__img {
-    width: 200px;
-    top: -13rem;
+    width: 300px;
+    top: 0rem;
+    left: 0rem;
   }
   .home__title {
     top: -4rem;
@@ -623,8 +624,9 @@ img {
     padding-top: 2rem;
   }
   .home__img {
-    top: -7rem;
-    left: 0;
+    width: 600px;
+    top: 12rem;
+    left: -10rem;
   }
   .specs__img {
     position: initial;
@@ -689,8 +691,9 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
   .home__img {
-    top: -9rem;
-    left: 4rem;
+    width: 800px;
+    top: 7rem;
+    left: -10rem;
   }
   .home__data {
     padding-top: 8rem;
@@ -745,8 +748,8 @@ img {
   }
   .home__img {
     width: 1000px;
-    top: 7rem;
-    left: 0rem;
+    top: 5rem;
+    left: -6rem;
   }
   .home__title {
     top: -5rem;
