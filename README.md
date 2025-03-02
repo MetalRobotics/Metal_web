@@ -1,8 +1,11 @@
-# Responsive Landing Page Headphones 🎧
+# Metal_web
+metalrobotics.co
+
+# Responsive Landing Page
 ## [Watch it on youtube](https://youtu.be/wXnlHIvKnTM)
 ### Responsive Landing Page Headphones 🎧
 
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
+- Landing page using HTML, CSS and JAVASCRIPT.
 - Dark interface.
 - With animations when scrolling.
 - Developed first with the Mobile First methodology, then for desktop.
